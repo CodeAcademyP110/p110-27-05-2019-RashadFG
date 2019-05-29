@@ -1,0 +1,7 @@
+D:\code academy\c#\ByMeDemo\indexer,extention,boxing\indexer,extention,boxing\bin\Debug\indexer,extention,boxing.exe.config
+D:\code academy\c#\ByMeDemo\indexer,extention,boxing\indexer,extention,boxing\bin\Debug\indexer,extention,boxing.exe
+D:\code academy\c#\ByMeDemo\indexer,extention,boxing\indexer,extention,boxing\bin\Debug\indexer,extention,boxing.pdb
+D:\code academy\c#\ByMeDemo\indexer,extention,boxing\indexer,extention,boxing\obj\Debug\indexer,extention,boxing.csprojAssemblyReference.cache
+D:\code academy\c#\ByMeDemo\indexer,extention,boxing\indexer,extention,boxing\obj\Debug\indexer,extention,boxing.csproj.CoreCompileInputs.cache
+D:\code academy\c#\ByMeDemo\indexer,extention,boxing\indexer,extention,boxing\obj\Debug\indexer,extention,boxing.exe
+D:\code academy\c#\ByMeDemo\indexer,extention,boxing\indexer,extention,boxing\obj\Debug\indexer,extention,boxing.pdb
